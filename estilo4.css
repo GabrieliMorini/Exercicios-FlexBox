@@ -1,0 +1,122 @@
+body{
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.R1{
+    background-color: yellow;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 90px;
+    height: 410px;
+    font-weight: bold;
+    font-size: 40px;
+    margin-right: 30px;
+}
+
+.D1{
+    border: 4px dashed white;
+    padding: 5px;
+    margin: 10px;
+    justify-content: center;
+    flex-direction: column;
+    
+}
+
+.D2{
+    border: 5px dashed red;
+    margin: 5px;
+    padding: 5px;
+    display: flex;
+    flex-direction:column;
+    width: 250px;
+    height: 250px;
+    
+
+
+}
+
+.D3{
+    width: 90%;
+    height: 90px;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 24px;
+    font-weight: bold;
+    border: 4px dashed rgb(255, 255, 255);
+    margin: 5px;
+    padding: 5px;
+
+    
+}
+
+
+.Qa{
+    background-color: yellow;
+    width: 85px;
+    height: 85px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+    font-weight: bold;
+
+}
+
+.Qb{
+
+    background-color: yellow;
+    width: 85px;
+    height: 85px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+    font-weight: bold;
+    
+
+  
+}
+
+
+.Ra{
+    background-color: yellow;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 250px;
+    height: 120px;
+    font-weight: bold;
+    font-size: 40px;
+
+    flex-direction: column;
+    margin-bottom: 25px;
+
+
+
+}
+
+
+
+.Rb{
+    background-color: yellow;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    font-size: 40px;
+
+     width: 275px;
+    height: 90px;
+    margin-top: 20px;
+    flex-direction: column;
+    margin-left: 5px;
+    margin-right: 5px;
+}

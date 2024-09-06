@@ -1,0 +1,111 @@
+.div1{
+    background-color: rgb(241, 197, 76);
+}
+
+.div2{
+    background-color: rgb(53, 155, 75);
+}
+
+.div3{
+    background-color: rgb(96, 94, 224);
+}
+
+.flex-container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap-reverse;
+}
+
+
+
+
+
+
+body{
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+
+
+}
+
+
+.Qa{
+    background-color: yellow;
+    width: 45%;
+    height: 90px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+    font-weight: bold;
+
+}
+
+.Qb{
+
+    background-color: yellow;
+    width: 45%;
+    height: 90px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+    font-weight: bold;
+
+  
+}
+
+.Q2{
+    background-color: yellow;
+    width: 400px;
+    height: 220px;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+    font-weight: bold;
+    display: flex;
+
+}
+
+.d1{
+    width: 300px;
+    height: 350px;
+    border: 4px dashed white;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 10px;
+    margin-right: 20px;
+
+}
+
+.d2{
+    width: 100%;
+    height: 90px;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 24px;
+    font-weight: bold;
+    border: 6px dashed rgb(189, 19, 19);
+
+
+}
+
+.R{
+    background-color: yellow;
+    display: flex;
+    justify-content: center;
+    width: 100px;
+    height: 380px;
+    font-size: 24px;
+    font-weight: bold;
+    align-items: center;
+
+
+    
+}
